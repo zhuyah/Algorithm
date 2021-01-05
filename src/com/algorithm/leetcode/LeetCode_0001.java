@@ -28,7 +28,7 @@ import java.util.Map;
  * 输入：nums = [3,3], target = 6
  * 输出：[0,1]
  */
-public class LeetCode_01 {
+public class LeetCode_0001 {
     public static void main(String[] args) {
         System.out.println(Arrays.toString(twoSum(new int[]{1,2,3,4,5},5)));
     }
